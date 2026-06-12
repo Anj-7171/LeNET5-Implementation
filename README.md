@@ -148,20 +148,6 @@ Confidence: 99.2%
 
 ---
 
-## Hyperparameters
-
-| Parameter | Value |
-|------------|---------|
-| Optimizer | Adam |
-| Learning Rate | 0.001 |
-| Batch Size | 64 |
-| Epochs | 10 |
-| Loss Function | CrossEntropyLoss |
-
-*(Update these values according to your implementation.)*
-
----
-
 ## Results
 
 Typical LeNet-5 implementations achieve around 98–99% accuracy on MNIST. :contentReference[oaicite:2]{index=2}
